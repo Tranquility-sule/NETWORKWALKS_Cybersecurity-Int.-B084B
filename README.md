@@ -139,6 +139,33 @@ It also demonstrated why organisations should enforce strong, unique passwords a
 
 
 
+<img width="1778" height="988" alt="j1" src="https://github.com/user-attachments/assets/92e234d9-e6a2-4f34-ab66-21f2ecf245b3" />
 
-<img width="607" height="716" alt="j16" src="https://github.com/user-attachments/assets/df96cef9-69ca-4a61-b765-5e71bf688e95" />
+<img width="1317" height="801" alt="j2" src="https://github.com/user-attachments/assets/1c1d0d62-9d4f-4cd0-bbce-e0c4037af287" />
 
+<img width="1843" height="824" alt="J3" src="https://github.com/user-attachments/assets/25ec7f0f-34a8-48b9-acb1-bada7181dce0" />
+
+<img width="1919" height="638" alt="J4" src="https://github.com/user-attachments/assets/5fb35371-6f47-41d0-a777-e4c28e4d50b1" />
+
+<img width="1160" height="724" alt="J5" src="https://github.com/user-attachments/assets/22d3d0dc-7cc7-415d-9d37-37d4ee792826" />
+
+<img width="1688" height="777" alt="J6" src="https://github.com/user-attachments/assets/93ea9801-c855-4821-95a8-2a2b05bb591e" />
+
+
+<img width="916" height="304" alt="J7" src="https://github.com/user-attachments/assets/5b593a52-36ef-4d92-8789-cf6408040cec" />
+
+<img width="947" height="207" alt="J8" src="https://github.com/user-attachments/assets/d918da9c-3112-4421-9b9d-c503a7f6e1ba" />
+
+<img width="913" height="267" alt="J9" src="https://github.com/user-attachments/assets/281070b4-6780-4a36-a900-a5c3f415fe3d" />
+
+<img width="828" height="297" alt="j10" src="https://github.com/user-attachments/assets/6554f683-46db-4e98-9127-1329c5b86362" />
+
+<img width="907" height="822" alt="J11" src="https://github.com/user-attachments/assets/7befe913-8cdc-4ca5-8d2f-02eb6410854b" />
+
+<img width="826" height="865" alt="J12" src="https://github.com/user-attachments/assets/11c28685-4b23-42ad-80b7-dbc181e0ba60" />
+
+<img width="1648" height="956" alt="J14" src="https://github.com/user-attachments/assets/10475813-fec1-4b87-aea3-d61b58a05db6" />
+
+<img width="1026" height="1009" alt="j15" src="https://github.com/user-attachments/assets/ec31149e-12ce-4d9c-a32e-49d7f2e8adac" />
+
+<img width="607" height="716" alt="j16" src="https://github.com/user-attachments/assets/ba73f44d-7a25-4a35-89fa-55afee9dca57" />
