@@ -136,3 +136,9 @@ It also demonstrated why organisations should enforce strong, unique passwords a
 ---
 
 *Disclaimer: This exercise was conducted on a PDF document supplied for authorised cybersecurity internship training. All testing was limited to the provided practice material.*
+
+
+
+
+<img width="607" height="716" alt="j16" src="https://github.com/user-attachments/assets/df96cef9-69ca-4a61-b765-5e71bf688e95" />
+
