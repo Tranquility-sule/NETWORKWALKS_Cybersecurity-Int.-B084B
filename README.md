@@ -49,6 +49,11 @@ The following command was executed:
 python /usr/share/john/pdf2john.py "My Locked PDF1.pdf" > pdf1.hash
 ```
 
+
+
+<img width="1778" height="988" alt="j1" src="https://github.com/user-attachments/assets/3aa45d3c-a76c-4e50-972c-9dfc7929c809" />
+
+
 The command successfully extracted the PDF password hash and saved it in `pdf1.hash`.
 
 ### 4. Verifying PDF Format Support
